@@ -1,0 +1,20 @@
+{
+  "requestdemande": {
+    "idCustomer": "123"
+  },
+  "dateCreation": "2017-10-22T11:11:12",
+  "statut": "A",
+  "codeMedia": "12",
+  "operation": {
+    "idRequest": "124",
+    "dateCreation": "2018-10-29T16:21:46",
+    "customer": [
+      {
+        "lastname": "Bond",
+        "prenom": "James",
+        "adress": "123 street from earth",
+        "city": "new york"
+      }
+    ]
+  }
+}

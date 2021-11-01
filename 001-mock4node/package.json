@@ -1,0 +1,20 @@
+{
+  "name": "mock-4-node",
+  "version": "1.0.0",
+  "description": "Mock API for applications",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "OLADEVELOPER",
+  "license": "OLA",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
