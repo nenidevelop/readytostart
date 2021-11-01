@@ -2,7 +2,6 @@
 
 ### Setup
 
-On the folder where the package.json ; type this command :
 ```
 npm install
 
