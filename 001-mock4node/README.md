@@ -1,4 +1,4 @@
-Mock4node allows you to create mocks jams to respond to REST API calls
+Mock4node allows you to create mocks to respond to REST API calls in nodejs.
 
 ### Setup
 
