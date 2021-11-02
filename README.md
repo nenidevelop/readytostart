@@ -7,5 +7,5 @@ Mock4node allows you to create mocks to respond to REST API calls in nodejs.
 
 ## 003-create-token-binance-smart-contrat
 
-Create a token on Biance Smart Chain
+Create a token on Binance Smart Chain
 
