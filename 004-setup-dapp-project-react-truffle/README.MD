@@ -1,3 +1,6 @@
+# React APP
+The react app is in the folder client : Simple APP
+
 ## Projects with truffle and react
 
 ### First project with no truffle box

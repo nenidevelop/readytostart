@@ -10,3 +10,7 @@ Deploy a binance smart contract
 
 Create a token on Binance Smart Chain
 
+## 004-004-setup-dapp-project-react-truffle
+Simple project REACT
+
+
