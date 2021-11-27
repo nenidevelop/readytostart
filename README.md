@@ -10,7 +10,12 @@ Deploy a binance smart contract
 
 Create a token on Binance Smart Chain
 
-## 004-004-setup-dapp-project-react-truffle
+## 004-setup-dapp-project-react-truffle
 Simple project REACT
+
+## 005-react-solidity-kickstarter
+DAPP project in react. 
+
+https://www.kickstarter.com/ clone using ethereum-solidity and react
 
 
