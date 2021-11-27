@@ -89,6 +89,14 @@ module.exports = {
       ),
       network_id: 97,
       skipDryRun: true
+    },
+    ganache: {
+      provider: () => new HDWalletProvider(
+        mnemonic, 
+        'HTTP://127.0.0.1:7545'
+      ),
+      network_id: 5777,
+      skipDryRun: true
     }
   },
 
