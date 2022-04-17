@@ -18,4 +18,6 @@ DAPP project in react.
 
 https://www.kickstarter.com/ clone using ethereum-solidity and react
 
+## 006 006-smart-contract-interaction-between-2-contracts
+Example of one contract call another contract on solidity.
 
