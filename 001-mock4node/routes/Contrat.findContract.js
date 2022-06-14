@@ -1,6 +1,7 @@
 module.exports = function (app) {
     app.get("/api/composants/contrats/:identifiantContrat", function (req, res) {
 
+        // get the request params
         var idContract = req.params.identifiantContrat;
 
         var jsonResponse = {

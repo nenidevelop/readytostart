@@ -27,7 +27,7 @@ truffle develop
 2. Got to https://testnet.binance.org/faucet-smart
 And paste the adresss
 
-3. Verify your adress on bscan testenet : 
+3. Verify your address on bscan testenet : 
 https://testnet.bscscan.com/address/0xd9ef5c8157322b93e6c8cac5fd72b8aa4f6bd99e
 
 4. Edit truffle-config.js 
