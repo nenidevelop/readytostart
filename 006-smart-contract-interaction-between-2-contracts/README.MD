@@ -1,5 +1,5 @@
 # Interaction between 2 contracts : 
-Here the code of 2 contracts. One contract calling an other contract
+Here the code of 2 contracts. One contract calling an other contract.
 
 1. Deploy contracts CallTestContract and TestContract
 2. Set the contract TestContract. 

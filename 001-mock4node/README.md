@@ -21,6 +21,20 @@ http://localhost:8081/api/map
 
 You can import the postman collection 'mock4node.postman_collection' to get all API example.
 
+### Create new mock API
+
+To create a new mock : 
+
+1. add your new route into the file : apimap.js
+2. Create your new file Contrat.findContract.js
+3. Add your json response
+4. Your new mock can be visible on this URL :
+```
+http://localhost:8081/api/map
+```
+
+
+
 
 
 
