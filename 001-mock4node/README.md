@@ -25,7 +25,7 @@ You can import the postman collection 'mock4node.postman_collection' to get all 
 
 To create a new mock : 
 
-1. add your new route into the file : apimap.js
+1. Add your new route into the file : apimap.js
 2. Create your new file Contrat.findContract.js
 3. Add your json response
 4. Your new mock can be visible on this URL :

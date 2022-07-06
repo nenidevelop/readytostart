@@ -18,7 +18,7 @@
    
 8. Clic on deploy and a metamask's popup opened and clic confirm.
    
-9.  Open your contract deployed and you will be able to test your function
+9. Open your contract deployed and you will be able to test your function
     
 10. To generate other address : https://vanity-eth.tk/
 
