@@ -25,10 +25,11 @@ Example of one contract call another contract on solidity in 2 differents files.
 Following these steps, in order to the debug yout smart contract in solidity with metamask and truffle.
 
 ## 008. Test bakedbeans smart contract with hardhat
-Coming soon
+Some tests using hardhat to test the functions : buy/sell/compound
+of a bakedbeans smart contract.
 
 ## 009. Reentrancy security smart contract
-Explanation on how Reentrancy works on an smart contract
+Explanation on how Reentrancy works on an smart contract.
 
 ## 010. Proxy contract to upgrade a contract
 Coming soon
