@@ -2,7 +2,14 @@
 
 Here some tests using hardhat to test the functions : buy/sell/compound
 
-To execute the test, run this command : 
+
+First compile the contract : 
+
+```
+npx hardhat compile
+```
+
+Then to execute the test, run this command : 
 
 ```
 npx hardhat test
