@@ -3,7 +3,13 @@
 Here some tests using hardhat to test the functions : buy/sell/compound
 
 
-First compile the contract : 
+Install the project : 
+
+```
+npm install
+```
+
+Then compile the contract : 
 
 ```
 npx hardhat compile
