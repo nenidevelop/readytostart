@@ -17,4 +17,13 @@ npm-debug.log
 dist/
 lib/
 
+
 *.mp4
+
+008-bakedbeans-smart-contrac-hardhat/artifacts/build-info/
+008-bakedbeans-smart-contrac-hardhat/package-lock.json
+008-bakedbeans-smart-contrac-hardhat/artifacts/contracts/MilkaCow.sol/
+008-bakedbeans-smart-contrac-hardhat/artifacts/hardhat/console.sol/
+008-bakedbeans-smart-contrac-hardhat/cache/
+.gitignore
+005-react-solidity-kickstarter/.next/
