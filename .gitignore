@@ -27,3 +27,5 @@ lib/
 008-bakedbeans-smart-contrac-hardhat/cache/
 .gitignore
 005-react-solidity-kickstarter/.next/
+010-proxy-upgrading-smart-contract/package-lock.json
+010-proxy-upgrading-smart-contract/.openzeppelin/

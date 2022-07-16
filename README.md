@@ -32,5 +32,5 @@ of a bakedbeans smart contract.
 Explanation on how Reentrancy works on an smart contract.
 
 ## 010. Proxy contract to upgrade a contract
-Coming soon
+This project demonstrates how to upgrade smart contract using a proxy.
 
